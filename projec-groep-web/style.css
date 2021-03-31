@@ -1,0 +1,47 @@
+/* om de body gray te maken */
+
+ /* om de tekst in het hele bestand wit te maken */
+  .text {    
+    color: white; 
+  }
+
+  /* Navbar tekst wit maken*/
+  #nav-tekst {
+    color: white ; 
+  }/* om de body kleur te maken */
+  body {
+    background-image: url("./img/bg-space.png");
+    background-color: #cccccc;
+   }
+  
+ /* om de tekst in het hele bestand wit te maken */
+  .text {    
+    color: white; 
+  }
+  p {    
+    color: white; 
+  }
+
+  h1 {    
+    color: white; 
+  }
+
+  h2 {    
+    color: white; 
+  }
+
+  h3 {    
+    color: white; 
+  }
+  
+  label {
+
+    color: white;
+  }
+
+  /* Navbar tekst wit maken*/
+  #nav-tekst {
+    color: white ; 
+  }
+
+
